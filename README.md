@@ -1,2 +1,2 @@
 # foss2016.github.io
-official website for the foss project 
+Official website for the foss project 
